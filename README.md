@@ -49,7 +49,7 @@
 
 <br>
 
-### 📚 License
+### 📚 Certificate
   
   ||Name||
   |-|-|-|

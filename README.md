@@ -1,11 +1,11 @@
 <div align="center">
   
-<h1 align="center">Hi, I'm Sangwon Kim ! 👋:smiling_face_with_three_hearts: </h1>
+<h1 align="center">Hi, &nbsp;I'm Sangwon Kim ! 👋 </h1>
 
 ### 🌱 Pre AI Developer
 
-  - 예비 AI 개발자 :relaxed: <br>
-  - 현재 R을 활용한 분석에 대해 학습 중 입니다:)<img src="https://media.giphy.com/media/rGlAZysKBcjRCkAX7S/giphy.gif" width="35">
+  - 예비 AI 개발자, 김상원입니다 :relaxed: <br>
+  - 현재 R을 활용한 분석에 대해 학습 중 입니다 :smiling_face_with_three_hearts:
 
 <br><br>
 
@@ -38,7 +38,7 @@
   ![Google Docs](https://img.shields.io/badge/Google%20Docs-34A853.svg?&style=for-the-badge&logo=Google%20Docs&logoColor=white)
   ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
   
-<br><br><br><br>
+<br><br>
   
 ### <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="35"> Project
 
@@ -66,6 +66,12 @@
 
 <br><br>
 
+### 📬 Contact
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:swkim7275@gmail.com)](mailto:swkim7275@gmail.com)  
+  
+<br><br>
+  
 ### <img src="https://media.giphy.com/media/KzccVmHEzmNLbc3Tv2/giphy.gif" width="35"> Github Stats
   
 <br>
@@ -80,12 +86,6 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsangwonKim7&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![GitHub followers](https://img.shields.io/github/followers/sangwonKim7?style=social)
-    
-<br><br>
-
-### 📬 Contacts
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:swkim7275@gmail.com)](mailto:swkim7275@gmail.com)  
 
 </div>
 

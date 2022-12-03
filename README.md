@@ -7,10 +7,9 @@
   - 예비 개발자, 김상원입니다 :relaxed: <br>
   - 현재 R을 활용한 분석에 대해 학습 중 입니다 :smiling_face_with_three_hearts:
 
-<br><br>
+<br>
 
 ### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Tech Stack
-  <br>
   
   ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
   ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white)
@@ -38,17 +37,17 @@
   ![Google Docs](https://img.shields.io/badge/Google%20Docs-34A853.svg?&style=flat-square&logo=Google%20Docs&logoColor=white)
   ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=flat-square&logo=Discord&logoColor=white)
   
-<br><br>
+<br>
   
 ### <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="35"> Projects
 
   ||Name||Comment|
   |-----|-----|-----|-----|  
-  |2022|[Noon Project](https://github.com/sangwonKim7/Noon)|Swing|App / Kiosk / Cms|
-  |2022|[RoastBean Project](https://github.com/sangwonKim7/thejoen-RoastBean_Web)|MVC Pattern|WEB Community / Product / Etc|
-  |2022|[RoastBean Project](https://github.com/sangwonKim7/thejoen-RoastBean_Web)|Spring|WEB Community / Product / Etc|
+  |2022|[Noon Project](https://github.com/SunHyongKwon/Noon)|Swing|App / Kiosk / Cms|
+  |2022|[RoastBean Project](https://github.com/sangwonKim7/thejoeun-RoastBean_Web)|MVC Pattern|WEB|
+  |2022|[RoastBean Project](https://github.com/BhanKim/roastbean-springProject)|Spring|WEB|
 
-<br><br>
+<br>
 
 ### 📚 License
   
@@ -56,7 +55,7 @@
   |-|-|-|
   |2022|SQLD|Structured Query Language Developer|
   
-<br><br>
+<br>
   
 ### <img src="https://media.giphy.com/media/cIbeGOBApvS2pB4zj5/giphy.gif" width="35"> Education
    
@@ -64,20 +63,17 @@
 |------|------|------|------|
 |2008-2020|[Korea Aerospace University](http://kau.ac.kr/web/index.do)|Department of Aerospace Engineering|Bachelor|
 
-<br><br>
+<br>
 
 ### 📬 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swkim7275@gmail.com)](mailto:swkim7275@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-d03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:swkim7275@naver.com)](mailto:swkim7275@naver.com)
   
-  
-<br><br>
+<br>
   
 ### <img src="https://media.giphy.com/media/KzccVmHEzmNLbc3Tv2/giphy.gif" width="35"> Github Stats
   
-<br>
-
 ![Sangwon's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sangwonKim7&show_icons=true&theme=tokyonight&layout=compact)
 
 <br>

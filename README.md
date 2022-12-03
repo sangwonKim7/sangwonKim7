@@ -2,9 +2,9 @@
   
 <h1 align="center">Hi, &nbsp;I'm Sangwon Kim ! 👋 </h1>
 
-### 🌱 Pre AI Developer
+### 🌱 Pre Developer
 
-  - 예비 AI 개발자, 김상원입니다 :relaxed: <br>
+  - 예비 개발자, 김상원입니다 :relaxed: <br>
   - 현재 R을 활용한 분석에 대해 학습 중 입니다 :smiling_face_with_three_hearts:
 
 <br><br>
@@ -12,35 +12,35 @@
 ### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Tech Stack
   <br>
   
-  ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-  ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
+  ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white)
   
-  ![mySQL](https://img.shields.io/badge/mySQL-4479A1.svg?&style=for-the-badge&logo=mySQL&logoColor=white)
-  ![MySQL Workbech](https://img.shields.io/badge/mySQL%20Workbench-4479A1.svg?&style=for-the-badge&logo=mySQL%20Workbench&logoColor=white)
+  ![mySQL](https://img.shields.io/badge/mySQL-4479A1.svg?&style=flat-square&logo=mySQL&logoColor=white)
+  ![MySQL Workbech](https://img.shields.io/badge/mySQL%20Workbench-4479A1.svg?&style=flat-square&logo=mySQL%20Workbench&logoColor=white)
   
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-  ![JQuery](https://img.shields.io/badge/JQuery-0769AD.svg?&style=for-the-badge&logo=JQuery&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat-square&logo=Spring%20Boot&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
+  ![JQuery](https://img.shields.io/badge/JQuery-0769AD.svg?&style=flat-square&logo=JQuery&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat-square&logo=Bootstrap&logoColor=white)
   
-  ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white)
-  ![RStudio](https://img.shields.io/badge/RStudio-75AADB.svg?&style=for-the-badge&logo=RStudio&logoColor=white)
+  ![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white)
+  ![RStudio](https://img.shields.io/badge/RStudio-75AADB.svg?&style=flat-square&logo=RStudio&logoColor=white)
  
-  ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
-  ![Fork](https://img.shields.io/badge/Fork-75AADB.svg?&style=for-the-badge&logo=Fork&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white)
+  ![Fork](https://img.shields.io/badge/Fork-75AADB.svg?&style=flat-square&logo=Fork&logoColor=white)
   
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
-  ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
-  ![Miro](https://img.shields.io/badge/Miro-050038.svg?&style=for-the-badge&logo=Miro&logoColor=white)
-  ![Google Docs](https://img.shields.io/badge/Google%20Docs-34A853.svg?&style=for-the-badge&logo=Google%20Docs&logoColor=white)
-  ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white)
+  ![Miro](https://img.shields.io/badge/Miro-050038.svg?&style=flat-square&logo=Miro&logoColor=white)
+  ![Google Docs](https://img.shields.io/badge/Google%20Docs-34A853.svg?&style=flat-square&logo=Google%20Docs&logoColor=white)
+  ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=flat-square&logo=Discord&logoColor=white)
   
 <br><br>
   
-### <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="35"> Project
+### <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="35"> Projects
 
   ||Name||Comment|
   |-----|-----|-----|-----|  
@@ -68,7 +68,9 @@
 
 ### 📬 Contact
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:swkim7275@gmail.com)](mailto:swkim7275@gmail.com)  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swkim7275@gmail.com)](mailto:swkim7275@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-d03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:swkim7275@naver.com)](mailto:swkim7275@naver.com)
+  
   
 <br><br>
   

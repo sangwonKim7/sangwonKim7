@@ -62,7 +62,7 @@
 ||where|what|etc|
 |------|------|------|------|
 |2008.3 ~ 2020.2|[Korea Aerospace University](http://kau.ac.kr/web/index.do)|Department of Aerospace Engineering|Bachelor|
-|2022.8 ~ |[Thejoeun Computer Academy](https://gr.tjoeun.co.kr)|BigDataCourse|now ing|
+|2022.8 ~ ing|[Thejoeun Computer Academy](https://gr.tjoeun.co.kr)|Big Data Course||
 
 <br>
 

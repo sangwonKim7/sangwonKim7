@@ -4,7 +4,7 @@
 
 ### 🌱 Pre Developer
 
-  - 예비 개발자, 김상원입니다 :relaxed: <br>
+  - 성장하는 예비 개발자, 김상원입니다 :relaxed: <br>
   - 현재 R을 활용한 분석에 대해 학습 중 입니다 :smiling_face_with_three_hearts:
 
 <br>

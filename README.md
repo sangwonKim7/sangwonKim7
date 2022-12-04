@@ -59,9 +59,10 @@
   
 ### <img src="https://media.giphy.com/media/cIbeGOBApvS2pB4zj5/giphy.gif" width="35"> Education
    
-||University|Major|Degree|
+||where|what|etc|
 |------|------|------|------|
-|2008-2020|[Korea Aerospace University](http://kau.ac.kr/web/index.do)|Department of Aerospace Engineering|Bachelor|
+|2008.3 ~ 2020.2|[Korea Aerospace University](http://kau.ac.kr/web/index.do)|Department of Aerospace Engineering|Bachelor|
+|2022.8 ~ |[Thejoeun Computer Academy](https://gr.tjoeun.co.kr)|BigDataCourse|now ing|
 
 <br>
 

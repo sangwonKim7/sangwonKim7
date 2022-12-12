@@ -5,9 +5,9 @@
 ### 🌱 Pre Developer
 
   - 성장하는 예비 개발자, 김상원입니다 :relaxed: <br>
-  - Java, mysql 등 을 익혔습니다.
-  - Swing, MVC Pattern, Spring boot 프로젝트를 진행하였습니다.
-  - 현재 R을 활용한 분석에 대해 학습 중 입니다 :smiling_face_with_three_hearts:
+  - Java, mysql, R 등 을 익혔습니다.
+  - 'Swing', 'MVC Pattern', 'Spring boot', 'R Data Analysis' 프로젝트를 진행하였습니다.
+  - 현재 Flutter에 대해 학습 중 입니다 :smiling_face_with_three_hearts:
 
 <br>
 
@@ -48,6 +48,7 @@
   |2022.10|[Noon Project](https://github.com/SunHyongKwon/Noon)|Swing|App / Kiosk / Cms|
   |2022.11|[RoastBean Project](https://github.com/sangwonKim7/thejoeun-RoastBean_Web)|MVC Pattern|WEB|
   |2022.11|[RoastBean Project](https://github.com/BhanKim/roastbean-springProject)|Spring boot|WEB|
+  |2022.12|Subway Analysis|R|Data Analysis|
 
 <br>
 

@@ -46,9 +46,10 @@
   ||Title|with|Output|
   |-----|-----|-----|-----|  
   |2022.10|[Noon Project](https://github.com/SunHyongKwon/Noon)|Swing|App / Kiosk / Cms|
-  |2022.11|[RoastBean Project](https://github.com/sangwonKim7/thejoeun-RoastBean_Web)|MVC Pattern|WEB|
-  |2022.11|[RoastBean Project](https://github.com/BhanKim/roastbean-springProject)|Spring boot|WEB|
+  |2022.11|[RoastBean Web Project](https://github.com/sangwonKim7/thejoeun-RoastBean_Web)|MVC Pattern|WEB|
+  |2022.11|[RoastBean Web Project](https://github.com/BhanKim/roastbean-springProject)|Spring boot|WEB|
   |2022.12|Subway Analysis|R|Data Analysis|
+  |2022.12|Scheduler App Project|Flutter|App|
 
 <br>
 

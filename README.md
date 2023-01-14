@@ -5,8 +5,8 @@
 ### 🌱 Pre AI Software Engineer
 
   - 성장하는 예비 개발자, 김상원입니다 :relaxed: <br>
-  - Java, MySQL, MVC Pattern, Springboot, R, Flutter 등 을 익혔습니다.
-  - 'Swing' , 'MVC Pattern' , 'Spring boot' , 'R Data Analysis' , 'Flutter&DataAnalysis(R)' 프로젝트를 진행하였습니다.
+  - Java, MySQL , MVC Pattern , Springboot , R , Flutter 등 을 익혔습니다.
+  - 'Swing' , 'MVC Pattern' , 'Spring boot' , 'R Data Analysis' , 'Flutter & MachineLearning(R)' 프로젝트를 진행하였습니다.
   - 현재 Python 에 대해 학습 중 입니다 :smiling_face_with_three_hearts:
 
 <br>

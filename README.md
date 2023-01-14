@@ -2,12 +2,12 @@
   
 <h1 align="center">Hi, &nbsp;I'm Sangwon Kim ! 👋 </h1>
 
-### 🌱 Pre Developer
+### 🌱 Pre AI Software Engineer
 
   - 성장하는 예비 개발자, 김상원입니다 :relaxed: <br>
-  - Java, mysql, R 등 을 익혔습니다.
-  - 'Swing', 'MVC Pattern', 'Spring boot', 'R Data Analysis' 프로젝트를 진행하였습니다.
-  - 현재 Flutter에 대해 학습 중 입니다 :smiling_face_with_three_hearts:
+  - Java, MySQL, MVC Pattern, Springboot, R, Flutter 등 을 익혔습니다.
+  - 'Swing' , 'MVC Pattern' , 'Spring boot' , 'R Data Analysis' , 'Flutter&DataAnalysis(R)' 프로젝트를 진행하였습니다.
+  - 현재 Python 에 대해 학습 중 입니다 :smiling_face_with_three_hearts:
 
 <br>
 
@@ -43,13 +43,14 @@
   
 ### <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="35"> Projects
 
-  ||Title|with|Output|
+  ||Name|Dev|Output|
   |-----|-----|-----|-----|  
-  |2022.10|[Noon Project](https://github.com/SunHyongKwon/Noon)|Swing|App / Kiosk / Cms|
-  |2022.11|[RoastBean Web Project](https://github.com/sangwonKim7/thejoeun-RoastBean_Web)|MVC Pattern|WEB|
-  |2022.11|[RoastBean Web Project](https://github.com/BhanKim/roastbean-springProject)|Spring boot|WEB|
-  |2022.12|Subway Analysis|R|Data Analysis|
-  |2022.12|Scheduler App Project|Flutter|App|
+  |2022.10|[Noon Swing Project](https://github.com/SunHyongKwon/Noon)|Java, Swing|App / Kiosk / Cms|
+  |2022.11|[RoastBean Web Project](https://github.com/sangwonKim7/MVC_Web_Project-Roast_Bean.git)|Java, MVC Pattern, MySQL|WEB|
+  |2022.11|[RoastBean Web Project](https://github.com/sangwonKim7/Spring_Web_Project-Roast_Bean.git)|Java, Spring boot, MySQL|WEB|
+  |2022.12|Subway Data Analysis Semi Project|R|Data Analysis|
+  |2022.12|Scheduler App Semi Project|Flutter, MySQL|App|
+  |2023.01|[Dr.Oh App Project](https://github.com/sangwonKim7/Flutter_R_App_Project-Dr_Oh.git)|Flutter, R, Firebase|App with ML|
 
 <br>
 

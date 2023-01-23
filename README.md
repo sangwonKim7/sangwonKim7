@@ -16,9 +16,10 @@
   ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
   ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white)
   
-  ![mySQL](https://img.shields.io/badge/mySQL-4479A1.svg?&style=flat-square&logo=mySQL&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mySQL-4479A1.svg?&style=flat-square&logo=mySQL&logoColor=white)
   ![MySQL Workbech](https://img.shields.io/badge/mySQL%20Workbench-4479A1.svg?&style=flat-square&logo=mySQL%20Workbench&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white)
+  ![TinyDB] 
   
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat-square&logo=Spring%20Boot&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
@@ -39,7 +40,8 @@
   ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white)
   ![Miro](https://img.shields.io/badge/Miro-050038.svg?&style=flat-square&logo=Miro&logoColor=white)
   ![Google Docs](https://img.shields.io/badge/Google%20Docs-34A853.svg?&style=flat-square&logo=Google%20Docs&logoColor=white)
-  ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=flat-square&logo=Discord&logoColor=white)
+  ![Slack](https://img.shields.io/badge/Google%20Docs-34A853.svg?&style=flat-square&logo=Google%20Docs&logoColor=white)  
+  ![Discord](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white)
   
 <br>
   

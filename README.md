@@ -28,7 +28,7 @@
   
   ![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white)
   ![RStudio](https://img.shields.io/badge/RStudio-75AADB.svg?&style=flat-square&logo=RStudio&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-75AADB.svg?&style=flat-square&logo=Python&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
  
   ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white)

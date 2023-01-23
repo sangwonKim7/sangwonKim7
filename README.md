@@ -24,7 +24,8 @@
   ![MySQL Workbech](https://img.shields.io/badge/MySQL%20Workbench-4479A1.svg?&style=flat-square&logo=mySQL%20Workbench&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white)
   ![TinyDB](https://img.shields.io/badge/TinyDB-276DC3.svg?&style=flat-square&logo=TinyDB&logoColor=white)
-  
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=white)
+
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat-square&logo=Spring%20Boot&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)

@@ -40,8 +40,8 @@
   ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white)
   ![Miro](https://img.shields.io/badge/Miro-050038.svg?&style=flat-square&logo=Miro&logoColor=white)
   ![Google Docs](https://img.shields.io/badge/Google%20Docs-34A853.svg?&style=flat-square&logo=Google%20Docs&logoColor=white)
-  ![Slack](https://img.shields.io/badge/Slack-34A853.svg?&style=flat-square&logo=Google%20Docs&logoColor=white)  
-  ![Discord](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white)
+  ![Slack](https://img.shields.io/badge/Slack-34A853.svg?&style=flat-square&logo=Slack&logoColor=white)  
+  ![Discord](https://img.shields.io/badge/Discord-4A154B.svg?&style=flat-square&logo=Discord&logoColor=white)
   
 <br>
   

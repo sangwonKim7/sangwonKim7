@@ -16,9 +16,9 @@
   ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
   ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white)
   
-  #02569B
   ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=flat-square&logo=Flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=flat-square&logo=Dart&logoColor=white)
+  ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?&style=flat-square&logo=VisualStudioCode&logoColor=white)
   
   ![MySQL](https://img.shields.io/badge/mySQL-4479A1.svg?&style=flat-square&logo=mySQL&logoColor=white)
   ![MySQL Workbech](https://img.shields.io/badge/MySQL%20Workbench-4479A1.svg?&style=flat-square&logo=mySQL%20Workbench&logoColor=white)

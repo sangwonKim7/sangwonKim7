@@ -65,7 +65,7 @@
 
 ### 📚 Certificate
   
-  |When|Name|Note|
+  ||Name|Note|
   |-|-|-|
   |2022.11|SQLD|Structured Query Language Developer|
   

@@ -4,9 +4,9 @@
 
 ### 🌱 Pre AI Software Engineer
 
-  - 성장하는 예비 개발자, 김상원입니다 :relaxed: <br>
-  - Java , MySQL , MVC Pattern , Spring Boot , R(Data Analysis & ML) , Flutter , Firebase , SQLite , Scrapy 등 을 익혔습니다.
-  - 'Swing App' , 'MVC Pattern Web' , 'Spring Web' , 'R Data Analysis' , 'Flutter App & ML(R)' 프로젝트를 진행하였습니다.
+  - 성장하는 개발자, 김상원입니다 :relaxed: <br>
+  - Java , MySQL , MVC Pattern , Spring Boot , R(Data Analysis & ML) , Flutter , Firebase , SQLite , TinyDB , Scrapy 등 을 익혔습니다.
+  - 'Swing App' , 'MVC Pattern Web' , 'Spring Web' , 'R Data Analysis' , 'Flutter App wtih ML(R)' 프로젝트들을 진행하였습니다.
   - 현재 Python 에 대해 학습 중 입니다 :smiling_face_with_three_hearts:
 
 <br>
@@ -52,7 +52,7 @@
   
 ### <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="35"> Projects
 
-  ||Name|Dev|Output|
+  ||Name|Development|Output|
   |-----|-----|-----|-----|  
   |2022.10|[Noon Swing Project](https://github.com/SunHyongKwon/Noon)|Java, Swing|App / Kiosk / Cms|
   |2022.11|[RoastBean Web Project](https://github.com/sangwonKim7/MVC_Web_Project-Roast_Bean.git)|Java, MVC Pattern, MySQL|WEB|
@@ -65,7 +65,7 @@
 
 ### 📚 Certificate
   
-  ||Name||
+  |When|Name|Note|
   |-|-|-|
   |2022.11|SQLD|Structured Query Language Developer|
   
@@ -73,7 +73,7 @@
   
 ### <img src="https://media.giphy.com/media/cIbeGOBApvS2pB4zj5/giphy.gif" width="35"> Education
    
-||where|what|etc|
+||Where|What|Degree|
 |------|------|------|------|
 |2008.3 ~ 2020.2|[Korea Aerospace University](http://kau.ac.kr/web/index.do)|Department of Aerospace Engineering|Bachelor|
 |2022.9 ~ ing|[Thejoeun Computer Academy](https://gr.tjoeun.co.kr)|Big Data Course||

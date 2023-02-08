@@ -15,11 +15,11 @@
 ### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Tech Stack
   |Where|What|
   |------|------|
-  |Back|![MySQL](https://img.shields.io/badge/mySQL-4479A1.svg?&style=flat-square&logo=mySQL&logoColor=white)  ![MySQL Workbech](https://img.shields.io/badge/MySQL%20Workbench-4479A1.svg?&style=flat-square&logo=mySQL%20Workbench&logoColor=white)|
+  |Back|![MySQL](https://img.shields.io/badge/mySQL-4479A1.svg?&style=flat-square&logo=mySQL&logoColor=white)  ![MySQL Workbech](https://img.shields.io/badge/MySQL%20Workbench-4479A1.svg?&style=flat-square&logo=mySQL%20Workbench&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white)
   ![TinyDB](https://img.shields.io/badge/TinyDB-276DC3.svg?&style=flat-square&logo=TinyDB&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat-square&logo=Spring%20Boot&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat-square&logo=Spring%20Boot&logoColor=white)|
 
   
   

@@ -59,7 +59,8 @@
   |2022.11|[RoastBean Web Project](https://github.com/sangwonKim7/Spring_Web_Project-Roast_Bean.git)|Java, Spring boot, MySQL|WEB|
   |2022.12|Subway Data Analysis Semi Project|R|Data Analysis|
   |2022.12|Scheduler App Semi Project|Flutter, MySQL|App|
-  |2023.01|[Dr.Oh App Project](https://github.com/sangwonKim7/Flutter_R_App_Project-Dr_Oh.git)|Flutter, R, Firebase|App with ML|
+  |2023.01|[Dr.Oh App Project](https://github.com/sangwonKim7/Flutter_R_App_Project-Dr_Oh.git)|Flutter, R, Firebase|App, ML|
+  |2023.02|[Python Flutter Project](___)|Python, Flutter|Data Analysis, ML, App|
 
 <br>
 

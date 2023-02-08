@@ -4,7 +4,7 @@
 
 ### 🌱 Pre AI Software Engineer
 
-  _**성장형 개발자, 김상원입니다**_ :relaxed:  
+  **__성장형 개발자, 김상원입니다__** :relaxed:  
       
   Flutter, Java, MySQL, Firebase, MVC Pattern, Spring Boot, SQLite, TinyDB,  
   R(Data Analysis, ML), Python(Scrapy, Data Analysis, ML) 등 을 익혔습니다.  

@@ -13,7 +13,7 @@
 <br>
 
 ### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Tech Stack
-  |Name|Note|
+  |||
   |:------:|:------:|
   |<b>Back</b>|![MySQL](https://img.shields.io/badge/mySQL-4479A1.svg?&style=flat-square&logo=mySQL&logoColor=white)  ![MySQL Workbech](https://img.shields.io/badge/MySQL%20Workbench-4479A1.svg?&style=flat-square&logo=mySQL%20Workbench&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white)  ![TinyDB](https://img.shields.io/badge/TinyDB-276DC3.svg?&style=flat-square&logo=TinyDB&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat-square&logo=Spring%20Boot&logoColor=white)|
   |Developement & Front|  ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=flat-square&logo=Flutter&logoColor=white)  ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=flat-square&logo=Dart&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)    ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)  ![JQuery](https://img.shields.io/badge/JQuery-0769AD.svg?&style=flat-square&logo=JQuery&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat-square&logo=Bootstrap&logoColor=white)|

@@ -5,9 +5,9 @@
 ### 🌱 Pre AI Software Engineer
 
   - 성장하는 개발자, 김상원입니다 :relaxed: <br>
-  - Java , MySQL , MVC Pattern , Spring Boot , R(Data Analysis & ML) , Flutter , Firebase , SQLite , TinyDB , Scrapy 등 을 익혔습니다.
+  - Java, MySQL, MVC Pattern, Spring Boot, R(Data Analysis & ML), Flutter, Firebase, SQLite, TinyDB, Scrapy, Python(Data Analysis & ML) 등 을 익혔습니다.
   - 'Swing App' , 'MVC Pattern Web' , 'Spring Web' , 'R Data Analysis' , 'Flutter App wtih ML(R)' 프로젝트들을 진행하였습니다.
-  - 현재 Python 에 대해 학습 중 입니다 :smiling_face_with_three_hearts:
+  - 현재 Python(분석과 ML) + Flutter 프로젝트 중 입니다 :smiling_face_with_three_hearts:
 
 <br>
 

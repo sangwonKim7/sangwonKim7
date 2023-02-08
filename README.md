@@ -14,6 +14,7 @@
 
 ### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Tech Stack
   |||
+  |-----|-----|-----|
   |Back|![MySQL](https://img.shields.io/badge/mySQL-4479A1.svg?&style=flat-square&logo=mySQL&logoColor=white)|
   
   ![MySQL](https://img.shields.io/badge/mySQL-4479A1.svg?&style=flat-square&logo=mySQL&logoColor=white)

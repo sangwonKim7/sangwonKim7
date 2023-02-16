@@ -5,7 +5,7 @@
 
 ### 🌱 Pre AI Software Engineer
 
-  **성장형 개발자, 김상원입니다** :relaxed:  
+  **이성과 감성을 겸비한 감각적이고 균형잡힌 개발자, 김상원입니다** :relaxed:  
      
 <br>
       

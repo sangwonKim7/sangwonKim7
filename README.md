@@ -3,14 +3,14 @@
   
 <h1 align="center">Hi, &nbsp;I'm Sangwon Kim ! 👋 </h1>
 
-### 🌱 Pre AI Software Engineer
+### 🌱 Pre AI Software Engineer / Backend Engineer
 
-  **이성과 감성을 겸비한 감각적이고 균형있는 개발자, 김상원입니다** :relaxed:  
+  **이성과 감성을 겸비한 균형있는 개발자, 김상원입니다** :relaxed:  
      
 <br>
       
-  📕 Flutter | Java | MySQL | Firebase | MVC Pattern | Spring Boot | SQLite | TinyDB |  
-  R(Data Analysis, ML) | Python(Scrapy, Data Analysis, ML) | Swift 등 을 익혔습니다.  
+  📕 Flutter | Dart | Java | Swift | MySQL | Firebase | SQLite | TinyDB | MVC Pattern | Spring Boot |
+  R(Data Analysis, Machine Learning) | Python(Scrapy, Data Analysis, Machine Learning, Deep Learning) 등 을 익혔습니다.  
       
   📗 Java(Swing Program) | Java(MVC Pattern Web) | Java(Spring Web) | R(Data Analysis) |     
   Flutter-R(ML-App) | Python-Flutter(ML-App) 프로젝트들을 진행하였습니다.  
@@ -21,7 +21,7 @@
 
 ### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Tech Stack
  
-  |<b>Back-End</b>|![MySQL](https://img.shields.io/badge/mySQL-4479A1.svg?&style=flat-square&logo=mySQL&logoColor=white)  ![MySQL Workbech](https://img.shields.io/badge/MySQL%20Workbench-4479A1.svg?&style=flat-square&logo=mySQL%20Workbench&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white)  ![TinyDB](https://img.shields.io/badge/TinyDB-276DC3.svg?&style=flat-square&logo=TinyDB&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat-square&logo=Spring%20Boot&logoColor=white)|
+  |<b>Back-End</b>|![MySQL](https://img.shields.io/badge/mySQL-4479A1.svg?&style=flat-square&logo=mySQL&logoColor=white)  ![MySQL Workbech](https://img.shields.io/badge/MySQL%20Workbench-4479A1.svg?&style=flat-square&logo=mySQL%20Workbench&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white)  ![TinyDB](https://img.shields.io/badge/TinyDB-276DC3.svg?&style=flat-square&logo=TinyDB&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=flat-square&logo=Flask&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat-square&logo=Spring%20Boot&logoColor=white)|
   |------:|:------:|
   |<b>Development & Front-End</b>|  ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=flat-square&logo=Flutter&logoColor=white)  ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=flat-square&logo=Dart&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)    ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)  ![JQuery](https://img.shields.io/badge/JQuery-0769AD.svg?&style=flat-square&logo=JQuery&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat-square&logo=Bootstrap&logoColor=white)|
   |<b>Data Analysis</b>|  ![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)|  
@@ -34,13 +34,14 @@
 
   ||Name|Development|Output|
   |-----|-----|-----|-----|  
-  |2022.10|[Noon Swing Project](https://github.com/sangwonKim7/Swing-Project__App-Kiosk-Cms__Noon.git)|Java, Swing|App / Kiosk / Cms|
-  |2022.11|[RoastBean Web Project](https://github.com/sangwonKim7/MVC-Project__Web__Roast-Bean.git)|Java, MVC Pattern, MySQL|WEB|
-  |2022.11|[RoastBean Web Project](https://github.com/sangwonKim7/Spring-Project__Web__Roast-Bean.git)|Java, Spring boot, MySQL|WEB|
+  |2022.10|[Noon Swing Project](https://github.com/sangwonKim7/Swing-Project__App-Kiosk-Cms__Noon.git)|Java, *Swing*|App / Kiosk / Cms|
+  |2022.11|[RoastBean Web Project](https://github.com/sangwonKim7/MVC-Project__Web__Roast-Bean.git)|Java, **MVC Pattern**, MySQL|WEB|
+  |2022.11|[RoastBean Web Project](https://github.com/sangwonKim7/Spring-Project__Web__Roast-Bean.git)|Java, **Spring boot**, MySQL|WEB|
   |2022.12|Subway Data Analysis Semi Project|R|Data Analysis|
-  |2022.12|Scheduler App Semi Project|Flutter, MySQL|App|
-  |2023.01|[Dr.Oh App Project](https://github.com/sangwonKim7/Flutter-R-Project__App-ML__Dr_Oh.git)|Flutter, R, Firebase|Data Analysis, ML, App|
-  |2023.02~|[Python Flutter Project](___)|Python, Flutter|Data Analysis, ML, App|
+  |2022.12|Scheduler App Semi Project|**Flutter**, MySQL|App|
+  |2023.01|[Dr.Oh App Project](https://github.com/sangwonKim7/Flutter-R-Project__App-ML__Dr_Oh.git)|**Flutter**, **R**, Firebase|*Data Analysis*, ML, App|
+  |2023.02|[LocalNow ML-App Project](https://github.com/sangwonKim7/Python-Flutter_ML-App_LocalNow.git)|***Python(ML)***, **Flutter**, *Flask*, Firebase|Data Analysis, **ML**, App|
+  |2023.03(ing)|["__" DL-App Project](https://github.com/sangwonKim7)|***Python(DL)***, Flutter, Flask|***Deep Learning***, App|
 
 <br>
 
@@ -57,7 +58,7 @@
 ||Where|What|Degree|
 |------|------|------|------|
 |2008.3 ~ 2020.2|[Korea Aerospace University](http://kau.ac.kr/web/index.do)|Department of Aerospace Engineering|Bachelor|
-|2022.9 ~ ing|[Thejoeun Computer Academy](https://gr.tjoeun.co.kr)|Big Data Course||
+|2022.9 ~ 2023.3|[Thejoeun Computer Academy](https://gr.tjoeun.co.kr)|Big Data Course||
 
 <br>
 

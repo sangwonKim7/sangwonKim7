@@ -9,7 +9,7 @@
      
 <br>
       
-  📕 Flutter | Dart | Java | Swift | MySQL | Firebase | SQLite | TinyDB | MVC Pattern | Spring Boot |
+  📕 Flutter | Dart | Java | Swift | MySQL | Firebase | SQLite | TinyDB | MVC Pattern | Spring Boot |   
   R(Data Analysis, Machine Learning) | Python(Scrapy, Data Analysis, Machine Learning, Deep Learning) 등 을 익혔습니다.  
       
   📗 Java(Swing Program) | Java(MVC Pattern Web) | Java(Spring Web) | R(Data Analysis) |     

@@ -10,12 +10,12 @@
 <br>
       
   📕 Flutter | Dart | Java | Swift | MySQL | Firebase | SQLite | TinyDB | MVC Pattern | Spring Boot |   
-  R(Data Analysis, Machine Learning) | Python(Scrapy, Data Analysis, Machine Learning, Deep Learning) 등 을 익혔습니다.  
+  R(Data Analysis, Machine Learning) | Python(Scrapy, Data Analysis, Machine Learning, ***Deep Learning***) 등 을 익혔습니다.  
       
   📗 Java(Swing Program) | Java(MVC Pattern Web) | Java(Spring Web) | R(Data Analysis) |     
   Flutter-R(ML-App) | Python-Flutter(ML-App) 프로젝트들을 진행하였습니다.  
      
-  📘 현재 Python ***강화학습-DL(CNN)***을 활용한 *핀테크* ***Flutter*** 앱 프로젝트 중 입니다 :smiling_face_with_three_hearts:
+  📘 현재 Python ***강화학습***-***DL(CNN)***을 활용한 *핀테크* ***Flutter*** 앱 프로젝트 중 입니다 :smiling_face_with_three_hearts:
 
 <br>
 

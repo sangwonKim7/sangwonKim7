@@ -32,16 +32,16 @@
   
 ### <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="35"> Projects
 
-  ||Name|Development|Output|
-  |-----|-----|-----|-----|  
-  |2022.10|[Noon Swing Project](https://github.com/sangwonKim7/Swing-Project__App-Kiosk-Cms__Noon.git)|Java, *Swing*|App / Kiosk / Cms|
-  |2022.11|[RoastBean Web Project](https://github.com/sangwonKim7/MVC-Project__Web__Roast-Bean.git)|Java, **MVC Pattern**, MySQL|WEB|
-  |2022.11|[RoastBean Web Project](https://github.com/sangwonKim7/Spring-Project__Web__Roast-Bean.git)|Java, **Spring boot**, MySQL|WEB|
-  |2022.12|Subway Data Analysis Semi Project|R|Data Analysis|
-  |2022.12|Scheduler App Semi Project|**Flutter**, MySQL|App|
-  |2023.01|[Dr.Oh App Project](https://github.com/sangwonKim7/Flutter-R-Project__App-ML__Dr_Oh.git)|**Flutter**, **R**, Firebase|*Data Analysis*, ML, App|
-  |2023.02|[LocalNow ML-App Project](https://github.com/sangwonKim7/Python-Flutter_ML-App_LocalNow.git)|***Python(ML)***, **Flutter**, *Flask*, Firebase|Data Analysis, **ML**, App|
-  |2023.03(ing)|["__" DL-App Project](https://github.com/sangwonKim7)|***Python(DL)***, Flutter, Flask|***Deep Learning***, App|
+  ||Name|Member|Development|Output|
+  |-----|-----|-----|-----|-----|  
+  |2022.10|5명|[Noon Swing Project](https://github.com/sangwonKim7/Swing-Project__App-Kiosk-Cms__Noon.git)|Java, *Swing*|App / Kiosk / Cms|
+  |2022.11|5명|[RoastBean Web Project](https://github.com/sangwonKim7/MVC-Project__Web__Roast-Bean.git)|Java, **MVC Pattern**, MySQL|WEB|
+  |2022.11|5명|[RoastBean Web Project](https://github.com/sangwonKim7/Spring-Project__Web__Roast-Bean.git)|Java, **Spring boot**, MySQL|WEB|
+  |2022.12|1명|Subway Data Analysis Semi Project|R|Data Analysis|
+  |2022.12|1명|Scheduler App Semi Project|**Flutter**, MySQL|App|
+  |2023.01|5명|[Dr.Oh App Project](https://github.com/sangwonKim7/Flutter-R-Project__App-ML__Dr_Oh.git)|**Flutter**, **R**, Firebase|*Data Analysis*, ML, App|
+  |2023.02|5명|[LocalNow ML-App Project](https://github.com/sangwonKim7/Python-Flutter_ML-App_LocalNow.git)|***Python(ML)***, **Flutter**, *Flask*, Firebase|Data Analysis, **ML**, App|
+  |2023.03(ing)|1명|[MemoryMarket RL-DL-App Project](https://github.com/sangwonKim7)|***Python(RL/DL)***, Flutter, Flask, Firebase|***Deep Learning***, App|
 
 <br>
 

@@ -32,7 +32,7 @@
   
 ### <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="35"> Projects
 
-  ||Name|Member|Development|Output|
+  ||Member|Name|Development|Output|
   |-----|-----|-----|-----|-----|  
   |2022.10|5명|[Noon Swing Project](https://github.com/sangwonKim7/Swing-Project__App-Kiosk-Cms__Noon.git)|Java, *Swing*|App / Kiosk / Cms|
   |2022.11|5명|[RoastBean Web Project](https://github.com/sangwonKim7/MVC-Project__Web__Roast-Bean.git)|Java, **MVC Pattern**, MySQL|WEB|

@@ -13,7 +13,7 @@
   R(Data Analysis, Machine Learning) | Python(Scrapy, Data Analysis, Machine Learning, ***Deep Learning***) 등 을 익혔습니다.  
       
   📗 Java(Swing Program)(5명) | Java(MVC Pattern Web)(5명) | Java(Spring Web)(5명) | R(Data Analysis)(1명) |     
-  Flutter-R(ML-App)(5명) | Python-Flutter(ML-App)(5명) | Flutter-SQLite(iOS 출시 중/1명) 프로젝트들을 진행하였습니다.  
+  Flutter-R(ML-App)(5명) | Python-Flutter(ML-App)(5명) | Flutter-SQLite(iOS 등록 중/1명) 프로젝트들을 진행하였습니다.  
      
   📘 현재 Python ***강화학습, CNN***을 활용한 *핀테크* ***Flutter*** 앱 프로젝트 중 입니다 :smiling_face_with_three_hearts:
 
@@ -42,7 +42,7 @@
   |2023.01|5명|[Dr.Oh App Project](https://github.com/sangwonKim7/Flutter-R-Project__App-ML__Dr_Oh.git)|**Flutter**, **R**, Firebase|*Data Analysis*, ML, App|
   |2023.02|5명|[LocalNow ML-App Project](https://github.com/sangwonKim7/Python-Flutter_ML-App_LocalNow.git)|***Python(ML)***, **Flutter**, *Flask*, Firebase|Data Analysis, **ML**, App|
   |2023.03(ing)|1명|[MemoryMarket RL-DL-App Project](https://github.com/sangwonKim7)|***Python(RL/DL)***, Flutter, Flask, Firebase|***RL, DL***, Fintech, App|
-  |2023.03(15일)|1명|[Life Rutine](https://github.com/sangwonKim7)|***Fluter***, SQLite|***iOS 출시 중***, Rutine, Schedule, Writing App|
+  |2023.03(15일)|1명|[Life Rutine](https://github.com/sangwonKim7)|***Flutter***, SQLite|***iOS 등록 중***, Rutine, Schedule, Writing|
 
 <br>
 

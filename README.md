@@ -42,7 +42,7 @@
   |2023.01|5명|[Dr.Oh App Project](https://github.com/sangwonKim7/Flutter-R-Project__App-ML__Dr_Oh.git)|**Flutter**, **R**, Firebase|*Data Analysis*, ML, App|
   |2023.02|5명|[LocalNow ML-App Project](https://github.com/sangwonKim7/Python-Flutter_ML-App_LocalNow.git)|***Python(ML)***, **Flutter**, *Flask*, Firebase|Data Analysis, **ML**, App|
   |2023.03(ing)|1명|[MemoryMarket RL-DL-App Project](https://github.com/sangwonKim7)|***Python(RL/DL)***, Flutter, Flask, Firebase|***RL, DL***, Fintech, App|
-  |2023.03|1명|[Life Rutine](https://github.com/sangwonKim7)|***Fluter***, SQLite|***iOS 출시 중***, Rutine, Schedule, Writing App|
+  |2023.03(15일)|1명|[Life Rutine](https://github.com/sangwonKim7)|***Fluter***, SQLite|***iOS 출시 중***, Rutine, Schedule, Writing App|
 
 <br>
 

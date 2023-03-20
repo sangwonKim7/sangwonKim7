@@ -38,7 +38,7 @@
   
 ### <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="35"> Projects
 
-  |    When    | Member | Name | Development | Output |
+  |       When       | Member | Name | Development | Output |
   |-----|-----|-----|-----|-----|  
   |22.10|5명|[Noon Swing Project](https://github.com/sangwonKim7/Swing-Project__App-Kiosk-Cms__Noon.git)|Java, *Swing*|App / Kiosk / Cms|
   |22.11|5명|[RoastBean Web Project](https://github.com/sangwonKim7/MVC-Project__Web__Roast-Bean.git)|Java, **MVC Pattern**, MySQL|WEB|
@@ -48,7 +48,7 @@
   |23.01|5명|[Dr.Oh App Project](https://github.com/sangwonKim7/Flutter-R-Project__App-ML__Dr_Oh.git)|**Flutter**, **R**, Firebase|*Data Analysis*, ML, App|
   |23.02|5명|[LocalNow ML-App Project](https://github.com/sangwonKim7/Python-Flutter_ML-App_LocalNow.git)|***Python(ML)***, **Flutter**, *Flask*, Firebase|Data Analysis, **ML**, App|
   |23.03(ing)|1명|[MemoryMarket RL-DL-App Project](https://github.com/sangwonKim7)|***Python(RL/DL)***, Flutter, Flask, Firebase|***RL, DL***, Fintech, App|
-  |23.03(15일)|1명|[***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec): ***iOS등록***|***Flutter***, SQLite|***iOS등록***, ***Rutine***/Schedule/Writing|
+  |23.03(15d)|1명|[***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec): ***iOS등록***|***Flutter***, SQLite|***iOS등록***, ***Rutine***/Schedule/Writing|
 
 <br>
 

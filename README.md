@@ -8,12 +8,14 @@
   **이성과 감성을 겸비한 균형있는 개발자, 김상원입니다** :relaxed:  
      
 <br>
+     
+  📙 iOS app 등록(1명): ***Life Rutine*** - 루틴 관리 | 스케쥴 관리 | 글 작성
       
   📕 Flutter | Dart | Java | Swift | MySQL | Firebase | SQLite | TinyDB | MVC Pattern | Spring Boot |   
   R(Data Analysis, Machine Learning) | Python(Scrapy, Data Analysis, Machine Learning, ***Deep Learning***) 등 을 익혔습니다.  
       
   📗 Java(Swing Program)(5명) | Java(MVC Pattern Web)(5명) | Java(Spring Web)(5명) | R(Data Analysis)(1명) |     
-  Flutter-R(ML-App)(5명) | Python-Flutter(ML-App)(5명) | Flutter-SQLite(iOS 등록 중/1명) 프로젝트들을 진행하였습니다.  
+  Flutter-R(ML-App)(5명) | Python-Flutter(ML-App)(5명) | LifeRutine: Flutter-SQLite(iOS 등록/1명) 프로젝트들을 진행하였습니다.  
      
   📘 현재 Python ***강화학습, CNN***을 활용한 *핀테크* ***Flutter*** 앱 프로젝트 중 입니다 :smiling_face_with_three_hearts:
 
@@ -34,15 +36,15 @@
 
   ||Member|Name|Development|Output|
   |-----|-----|-----|-----|-----|  
-  |2022.10|5명|[Noon Swing Project](https://github.com/sangwonKim7/Swing-Project__App-Kiosk-Cms__Noon.git)|Java, *Swing*|App / Kiosk / Cms|
-  |2022.11|5명|[RoastBean Web Project](https://github.com/sangwonKim7/MVC-Project__Web__Roast-Bean.git)|Java, **MVC Pattern**, MySQL|WEB|
-  |2022.11|5명|[RoastBean Web Project](https://github.com/sangwonKim7/Spring-Project__Web__Roast-Bean.git)|Java, **Spring boot**, MySQL|WEB|
-  |2022.12|1명|Subway Data Analysis Semi Project|R|Data Analysis|
-  |2022.12|1명|Scheduler App Semi Project|**Flutter**, MySQL|App|
-  |2023.01|5명|[Dr.Oh App Project](https://github.com/sangwonKim7/Flutter-R-Project__App-ML__Dr_Oh.git)|**Flutter**, **R**, Firebase|*Data Analysis*, ML, App|
-  |2023.02|5명|[LocalNow ML-App Project](https://github.com/sangwonKim7/Python-Flutter_ML-App_LocalNow.git)|***Python(ML)***, **Flutter**, *Flask*, Firebase|Data Analysis, **ML**, App|
-  |2023.03(ing)|1명|[MemoryMarket RL-DL-App Project](https://github.com/sangwonKim7)|***Python(RL/DL)***, Flutter, Flask, Firebase|***RL, DL***, Fintech, App|
-  |2023.03(15일)|1명|[Life Rutine](https://github.com/sangwonKim7)|***Flutter***, SQLite|***iOS 등록 중***, Rutine, Schedule, Writing|
+  |22.10|5명|[Noon Swing Project](https://github.com/sangwonKim7/Swing-Project__App-Kiosk-Cms__Noon.git)|Java, *Swing*|App / Kiosk / Cms|
+  |22.11|5명|[RoastBean Web Project](https://github.com/sangwonKim7/MVC-Project__Web__Roast-Bean.git)|Java, **MVC Pattern**, MySQL|WEB|
+  |22.11|5명|[RoastBean Web Project](https://github.com/sangwonKim7/Spring-Project__Web__Roast-Bean.git)|Java, **Spring boot**, MySQL|WEB|
+  |22.12|1명|Subway Data Analysis Semi Project|R|Data Analysis|
+  |22.12|1명|Scheduler App Semi Project|**Flutter**, MySQL|App|
+  |23.01|5명|[Dr.Oh App Project](https://github.com/sangwonKim7/Flutter-R-Project__App-ML__Dr_Oh.git)|**Flutter**, **R**, Firebase|*Data Analysis*, ML, App|
+  |23.02|5명|[LocalNow ML-App Project](https://github.com/sangwonKim7/Python-Flutter_ML-App_LocalNow.git)|***Python(ML)***, **Flutter**, *Flask*, Firebase|Data Analysis, **ML**, App|
+  |23.03(ing)|1명|[MemoryMarket RL-DL-App Project](https://github.com/sangwonKim7)|***Python(RL/DL)***, Flutter, Flask, Firebase|***RL, DL***, Fintech, App|
+  |23.03(15일)|1명|[***Life Rutine***](https://github.com/sangwonKim7): ***iOS등록***|***Flutter***, SQLite|***iOS등록***, ***Rutine***/Schedule/Writing|
 
 <br>
 

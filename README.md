@@ -9,16 +9,16 @@
      
 <br>
      
-  📙 iOS app 등록: ***Life Rutine***(개인 프로젝트) - 루틴 관리 | 스케쥴 관리 | 글 작성
+  📙 !!! iOS app 등록: [***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec)(개인 프로젝트) - 루틴 관리 | 스케쥴 관리 | 글 작성 !!!
      
 <br>
       
   📕 Flutter | Dart | Java | Swift | MySQL | Firebase | SQLite | TinyDB | MVC Pattern | Spring Boot |   
-  R(Data Analysis, Machine Learning) | Python(Scrapy, Data Analysis, Machine Learning, ***Deep Learning***)
+  R(Data Analysis, Machine Learning) | Python(Scrapy, Data Analysis, Machine Learning, ***Deep Learning***)    
   등 을 익혔습니다.  
       
   📗 Java(Swing Program)(5명) | Java(MVC Pattern Web)(5명) | Java(Spring Web)(5명) | R(Data Analysis)(1명) |     
-  Flutter-R(ML-App)(5명) | Python-Flutter(ML-App)(5명) | LifeRutine: Flutter-SQLite(iOS 등록/1명). 
+  Flutter-R(ML-App)(5명) | Python-Flutter(ML-App)(5명) | LifeRutine: Flutter-SQLite(iOS 등록/1명)    
   프로젝트들을 진행하였습니다.  
      
   📘 현재 Python ***강화학습, CNN***을 활용한 *핀테크* ***Flutter*** 앱 프로젝트 중 입니다 :smiling_face_with_three_hearts:
@@ -38,7 +38,7 @@
   
 ### <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="35"> Projects
 
-  |       When       | Member | Name | Development | Output |
+  |       When       | Member | Name | Development |    Output    |
   |-----|-----|-----|-----|-----|  
   |22.10|5명|[Noon Swing Project](https://github.com/sangwonKim7/Swing-Project__App-Kiosk-Cms__Noon.git)|Java, *Swing*|App / Kiosk / Cms|
   |22.11|5명|[RoastBean Web Project](https://github.com/sangwonKim7/MVC-Project__Web__Roast-Bean.git)|Java, **MVC Pattern**, MySQL|WEB|

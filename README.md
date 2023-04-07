@@ -3,13 +3,13 @@
   
 <h1 align="center">Hi, &nbsp;I'm Sangwon Kim ! 👋 </h1>
 
-### 🌱 Pre AI Software Engineer / Backend Engineer
+### 🌱 AI Software Engineer / Backend Engineer
 
   **이성과 감성을 겸비한 균형있는 개발자, 김상원입니다** :relaxed:  
      
 <br>
      
-  📙 !!! iOS app 등록: [***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec)(개인 프로젝트) - 루틴 관리 | 스케쥴 관리 | 글 작성 !!!
+  📙 iOS app 등록: [***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec)(개인 프로젝트) - 루틴 관리 | 스케쥴 관리 | 글 작성 --> 고도화 예정
      
 <br>
       
@@ -17,11 +17,16 @@
   R(Data Analysis, Machine Learning) | Python(Scrapy, Data Analysis, Machine Learning, ***Deep Learning***)    
   등 을 익혔습니다.  
       
-  📗 Java(Swing Program)(5명) | Java(MVC Pattern Web)(5명) | Java(Spring Web)(5명) | R(Data Analysis)(1명) |     
-  Flutter-R(ML-App)(5명) | Python-Flutter(ML-App)(5명) | LifeRutine: Flutter-SQLite(iOS 등록/1명)    
+  📗 [Academy]   
+  Java(Swing Program)(5명) | Java(MVC Pattern Web)(5명) | Java(Spring Web)(5명) | R(Data Analysis)(1명) |     
+  Flutter-R(ML-App)(5명) | Python-Flutter(ML-App)(5명) |   
+  Python-Flutter(RL-DL-App)(1명): Python ***강화학습, CNN***을 활용한 *핀테크* ***Flutter*** 앱 |    
+  
+  📙 [개인 작업]  
+  LifeRutine: Flutter-SQLite(iOS 등록/1명) / 고도화 예정   
   프로젝트들을 진행하였습니다.  
      
-  📘 현재 Python ***강화학습, CNN***을 활용한 *핀테크* ***Flutter*** 앱 프로젝트 중 입니다 :smiling_face_with_three_hearts:
+  📘 현재 개발/AI 직군에서 활동하고 있습니다 :smiling_face_with_three_hearts:
 
 <br>
 
@@ -47,7 +52,7 @@
   |22.12|1명|Scheduler App Semi Project|**Flutter**, MySQL|App|
   |23.01|5명|[Dr.Oh App Project](https://github.com/sangwonKim7/Flutter-R-Project__App-ML__Dr_Oh.git)|**Flutter**, **R**, Firebase|*Data Analysis*, ML, App|
   |23.02|5명|[LocalNow ML-App Project](https://github.com/sangwonKim7/Python-Flutter_ML-App_LocalNow.git)|***Python(ML)***, **Flutter**, *Flask*, Firebase|Data Analysis, **ML**, App|
-  |23.03(ing)|1명|[MemoryMarket RL-DL-App Project](https://github.com/sangwonKim7)|***Python(RL/DL)***, Flutter, Flask, Firebase|***RL, DL***, Fintech, App|
+  |23.03(12d)|1명|[MemoryMarket RL-DL-App Project](https://github.com/sangwonKim7)|***Python(RL/DL)***, Flutter, Flask, Firebase|***RL, DL***, Fintech, App|
   |23.03(15d)|1명|[***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec): ***iOS등록***|***Flutter***, SQLite|***iOS등록***, ***Rutine***/Schedule/Writing|
 
 <br>
@@ -62,10 +67,11 @@
   
 ### <img src="https://media.giphy.com/media/cIbeGOBApvS2pB4zj5/giphy.gif" width="35"> Education
    
-||Where|What|Degree|
+|When|Where|What|Note|
 |------|------|------|------|
 |2008.3 ~ 2020.2|[Korea Aerospace University](http://kau.ac.kr/web/index.do)|Department of Aerospace Engineering|Bachelor|
 |2022.9 ~ 2023.3|[Thejoeun Computer Academy](https://gr.tjoeun.co.kr)|Big Data Course||
+|2023.4 ~ ing||Development, AI|now working|
 
 <br>
 

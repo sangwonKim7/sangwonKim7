@@ -73,7 +73,7 @@
   
 <br>
   
-### <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="35"> Work
+### <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="35"> Carrer
    
 |When|Where|What|Note|
 |------|------|------|------|

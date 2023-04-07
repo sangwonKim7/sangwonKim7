@@ -45,15 +45,15 @@
 
   |       When       | Member | Name | Development |    Output    |
   |-----|-----|-----|-----|-----|  
-  |22.10|5명|[Noon Swing Project](https://github.com/sangwonKim7/Swing-Project__App-Kiosk-Cms__Noon.git)|Java, *Swing*|App / Kiosk / Cms|
-  |22.11|5명|[RoastBean Web Project](https://github.com/sangwonKim7/MVC-Project__Web__Roast-Bean.git)|Java, **MVC Pattern**, MySQL|WEB|
-  |22.11|5명|[RoastBean Web Project](https://github.com/sangwonKim7/Spring-Project__Web__Roast-Bean.git)|Java, **Spring boot**, MySQL|WEB|
-  |22.12|1명|Subway Data Analysis Semi Project|R|Data Analysis|
-  |22.12|1명|Scheduler App Semi Project|**Flutter**, MySQL|App|
-  |23.01|5명|[Dr.Oh App Project](https://github.com/sangwonKim7/Flutter-R-Project__App-ML__Dr_Oh.git)|**Flutter**, **R**, Firebase|*Data Analysis*, ML, App|
-  |23.02|5명|[LocalNow ML-App Project](https://github.com/sangwonKim7/Python-Flutter_ML-App_LocalNow.git)|***Python(ML)***, **Flutter**, *Flask*, Firebase|Data Analysis, **ML**, App|
+  |22.10(9d)|5명|[Noon Swing Project](https://github.com/sangwonKim7/Swing-Project__App-Kiosk-Cms__Noon.git)|Java, *Swing*|App / Kiosk / Cms|
+  |22.11(14d)|5명|[RoastBean Web Project](https://github.com/sangwonKim7/MVC-Project__Web__Roast-Bean.git)|Java, **MVC Pattern**, MySQL|WEB|
+  |22.11(5d)|5명|[RoastBean Web Project](https://github.com/sangwonKim7/Spring-Project__Web__Roast-Bean.git)|Java, **Spring boot**, MySQL|WEB|
+  |22.12(3d)|1명|Subway Data Analysis Semi Project|R|Data Analysis|
+  |22.12(4d)|1명|Scheduler App Semi Project|**Flutter**, MySQL|App|
+  |23.01(11d)|5명|[Dr.Oh App Project](https://github.com/sangwonKim7/Flutter-R-Project__App-ML__Dr_Oh.git)|**Flutter**, **R**, Firebase|*Data Analysis*, ML, App|
+  |23.02(16d)|5명|[LocalNow ML-App Project](https://github.com/sangwonKim7/Python-Flutter_ML-App_LocalNow.git)|***Python(ML)***, **Flutter**, *Flask*, Firebase|Data Analysis, **ML**, App|
   |23.03(12d)|1명|[MemoryMarket RL-DL-App Project](https://github.com/sangwonKim7)|***Python(RL/DL)***, Flutter, Flask, Firebase|***RL, DL***, Fintech, App|
-  |23.03(15d)|1명|[***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec): ***iOS등록***|***Flutter***, SQLite|***iOS등록***, ***Rutine***/Schedule/Writing|
+  |23.03(11d)|1명|[***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec): ***iOS등록***|***Flutter***, SQLite|***iOS등록***, ***Rutine***/Schedule/Writing|
 
 <br>
 

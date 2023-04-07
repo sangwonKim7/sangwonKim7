@@ -17,12 +17,12 @@
   R(Data Analysis, Machine Learning) | Python(Scrapy, Data Analysis, Machine Learning, ***Deep Learning***)    
   등 을 익혔습니다.  
       
-  📗 [Academy]() Java(Swing Program)(5명) | Java(MVC Pattern Web)(5명) | Java(Spring Web)(5명) | R(Data Analysis)(1명) |     
-  Flutter-R(ML-App)(5명) | Python-Flutter(ML-App)(5명) |   
+  📗 [Academy]() - Java(Swing Program)(5명) | Java(MVC Pattern Web)(5명) | Java(Spring Web)(5명) |   
+  R(Data Analysis)(1명) | Flutter-R(ML-App)(5명) | Python-Flutter(ML-App)(5명) |   
   Python-Flutter(RL-DL-App)(1명): Python ***강화학습, CNN***을 활용한 *핀테크* ***Flutter*** 앱 |    
   프로젝트들을 진행하였습니다. 
   
-  📙 [개인 작업]() LifeRutine: Flutter-SQLite(iOS 등록/1명) / 고도화 예정   
+  📙 [개인 작업]() - LifeRutine: Flutter-SQLite(iOS 등록/1명) / 고도화 예정   
   프로젝트를 진행하였습니다.  
      
   📘 현재 개발/AI 직군에서 활동하고 있습니다 :smiling_face_with_three_hearts:

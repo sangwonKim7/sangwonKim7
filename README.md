@@ -5,27 +5,35 @@
 
 ### 🌱 AI Software Engineer / Backend Engineer
 
-  **이성과 감성을 겸비한 균형있는 개발자, 김상원입니다** :relaxed:  
+  **I'm Kim Sangwon, a well-balanced developer with both reason and emotion** :relaxed:
+  <!-- **이성과 감성을 겸비한 균형있는 개발자, 김상원입니다** :relaxed:   -->
      
 <br>
      
-  📙 iOS app 등록: [***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec)(개인 프로젝트) - 루틴 관리 | 스케쥴 관리 | 글 작성 --> 고도화 예정
+  📙 iOS / AOS App: 2023.07 [***BuildUr***]()(personal project) - Routine | Schedule | ToDoList | Writing
+  <br>- advanced from 'Life Rutine'
+<br>
+  📙 iOS app: 2023.03 [***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec)(personal project) - Routine | Schedule | Writing
      
 <br>
       
-  📕 Flutter | Dart | Java | Swift | MySQL | Firebase | SQLite | TinyDB | MVC Pattern | Spring Boot |   
-  R(Data Analysis, Machine Learning) | Python(Scrapy, Data Analysis, Machine Learning, ***Deep Learning***)    
-  등 을 익혔습니다.  
+  📕 I've learned <br>- Flutter | Dart | Java | Swift | objective-c | Kotlin | MySQL | Firebase | SQLite | TinyDB | MVC Pattern | Spring Boot | R(Data Analysis, Machine Learning) | Python(Scrapy, Data Analysis, Machine Learning, ***Deep Learning***)    
+  <!-- 등 을 익혔습니다.   -->
       
-  📗 [Academy]() - Java(Swing Program)(5명) | Java(MVC Pattern Web)(5명) | Java(Spring Web)(5명) |   
-  R(Data Analysis)(1명) | Flutter-R(ML-App)(5명) | Python-Flutter(ML-App)(5명) |   
-  Python-Flutter(RL-DL-App)(1명): Python ***강화학습, CNN***을 활용한 *핀테크* ***Flutter*** 앱 |    
-  프로젝트들을 진행하였습니다. 
+  📗 I did these projects in [Academy]() <br>- Java(Swing Program)(5) | Java(MVC Pattern Web)(5) | Java(Spring Web)(5) |   
+  R(Data Analysis)(1) | Flutter-R(ML-App)(5) | Python-Flutter(ML-App)(5) |   
+  Python-Flutter(RL-DL-App)(1): Python (***Reinforcement, CNN***) *FinTech* ***Flutter*** App |    
+  <!-- 프로젝트들을 진행하였습니다.  -->
+
+  📗 I did these projects in [Company]() <br>- LG smart health care
   
-  📙 [개인 작업]() - LifeRutine: Flutter-SQLite(iOS 등록/1명) / 고도화 예정   
-  프로젝트를 진행하였습니다.  
+  📙 I did these projects in [Personal]()
+  <br>- BuildUr: Flutter-Firebase(iOS / AOS / myself)
+  <br>- LifeRutine: Flutter-SQLite(iOS 등록 / myself)
+  <!-- 프로젝트를 진행하였습니다.   -->
      
-  📘 현재 개발/AI 직군에서 활동하고 있습니다 :smiling_face_with_three_hearts:
+  📘 I'm currently in the development / AI profession
+  <!-- 📘 현재 개발/AI 직군에서 활동하고 있습니다 :smiling_face_with_three_hearts: -->
 
 <br>
 
@@ -44,15 +52,16 @@
 
   |       When       | Member | Name | Development |    Output    |
   |-----|-----|-----|-----|-----|  
-  |22.10(9d)|5명|[Noon Swing Project](https://github.com/sangwonKim7/Swing-Project__App-Kiosk-Cms__Noon.git)|Java, *Swing*|App / Kiosk / Cms|
-  |22.11(14d)|5명|[RoastBean Web Project](https://github.com/sangwonKim7/MVC-Project__Web__Roast-Bean.git)|Java, **MVC Pattern**, MySQL|WEB|
-  |22.11(7d)|5명|[RoastBean Web Project](https://github.com/sangwonKim7/Spring-Project__Web__Roast-Bean.git)|Java, **Spring boot**, MySQL|WEB|
-  |22.12(3d)|1명|Subway Data Analysis Semi Project|R|Data Analysis|
-  |22.12(4d)|1명|Scheduler App Semi Project|**Flutter**, MySQL|App|
-  |23.01(11d)|5명|[Dr.Oh App Project](https://github.com/sangwonKim7/Flutter-R-Project__App-ML__Dr_Oh.git)|**Flutter**, **R**, Firebase|*Data Analysis*, ML, App|
-  |23.02(16d)|5명|[LocalNow ML-App Project](https://github.com/sangwonKim7/Python-Flutter_ML-App_LocalNow.git)|***Python(ML)***, **Flutter**, *Flask*, Firebase|Data Analysis, **ML**, App|
-  |23.03(12d)|1명|[MemoryMarket RL-DL-App Project](https://github.com/sangwonKim7)|***Python(RL/DL)***, Flutter, Flask, Firebase|***RL, DL***, Fintech, App|
-  |23.03(11d)|1명|[***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec): ***iOS등록***|***Flutter***, SQLite|***iOS등록***, ***Rutine***/Schedule/Writing|
+  |22.10(9d)|5|[Noon Swing Project](https://github.com/sangwonKim7/Swing-Project__App-Kiosk-Cms__Noon.git)|Java, *Swing*|App / Kiosk / Cms|
+  |22.11(14d)|5|[RoastBean Web Project](https://github.com/sangwonKim7/MVC-Project__Web__Roast-Bean.git)|Java, **MVC Pattern**, MySQL|WEB|
+  |22.11(7d)|5|[RoastBean Web Project](https://github.com/sangwonKim7/Spring-Project__Web__Roast-Bean.git)|Java, **Spring boot**, MySQL|WEB|
+  |22.12(3d)|1|Subway Data Analysis Semi Project|R|Data Analysis|
+  |22.12(4d)|1|Scheduler App Semi Project|**Flutter**, MySQL|App|
+  |23.01(11d)|5|[Dr.Oh App Project](https://github.com/sangwonKim7/Flutter-R-Project__App-ML__Dr_Oh.git)|**Flutter**, **R**, Firebase|*Data Analysis*, ML, App|
+  |23.02(16d)|5|[LocalNow ML-App Project](https://github.com/sangwonKim7/Python-Flutter_ML-App_LocalNow.git)|***Python(ML)***, **Flutter**, *Flask*, Firebase|Data Analysis, **ML**, App|
+  |23.03(12d)|1|[MemoryMarket RL-DL-App Project](https://github.com/sangwonKim7)|***Python(RL/DL)***, Flutter, Flask, Firebase|***RL, DL***, Fintech, App|
+  |23.03(11d)|1|[***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec): ***iOS***|***Flutter***, SQLite|***iOS***, ***Rutine***/Schedule/Writing|
+  |23.04(4M)|1|[***LG Smart Health Caree***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec)|||
 
 <br>
 

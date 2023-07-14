@@ -3,7 +3,7 @@
   
 <h1 align="center">Hi, &nbsp;I'm Sangwon Kim ! 👋 </h1>
 
-### 🌱 AI Software Engineer / Backend Engineer
+### 🌱 Full Stack Developer / AI Software Engineer
 
   **I'm Kim Sangwon, a well-balanced developer with both reason and emotion** :relaxed:
   <!-- **이성과 감성을 겸비한 균형있는 개발자, 김상원입니다** :relaxed:   -->
@@ -61,7 +61,7 @@
   |23.02(16d)|5|[LocalNow ML-App Project](https://github.com/sangwonKim7/Python-Flutter_ML-App_LocalNow.git)|***Python(ML)***, **Flutter**, *Flask*, Firebase|Data Analysis, **ML**, App|
   |23.03(12d)|1|[MemoryMarket RL-DL-App Project](https://github.com/sangwonKim7)|***Python(RL/DL)***, Flutter, Flask, Firebase|***RL, DL***, Fintech, App|
   |23.03(11d)|1|[***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec): ***iOS***|***Flutter***, SQLite|***iOS***, ***Rutine***/Schedule/Writing|
-  |23.04(4M)|1|[***LG Smart Health Caree***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec)|||
+  |23.04(4M)|1|[***LG Smart Health Care***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec)|||
 
 <br>
 

@@ -28,8 +28,8 @@
   📗 I did these projects in [Company]() <br>- LG smart health care
   
   📙 I did these projects in [Personal]()
-  <br>- BuildUr: Flutter-Firebase(iOS / AOS / myself)
-  <br>- LifeRutine: Flutter-SQLite(iOS 등록 / myself)
+  <br>- BuildUr: Flutter-Firebase(app store/ play store / myself)
+  <br>- LifeRutine: Flutter-SQLite(app store / myself)
   <!-- 프로젝트를 진행하였습니다.   -->
      
   📘 I'm currently in the development / AI profession
@@ -61,7 +61,7 @@
   |23.02(16d)|5|[LocalNow ML-App Project](https://github.com/sangwonKim7/Python-Flutter_ML-App_LocalNow.git)|***Python(ML)***, **Flutter**, *Flask*, Firebase|Data Analysis, **ML**, App|
   |23.03(12d)|1|[MemoryMarket RL-DL-App Project](https://github.com/sangwonKim7)|***Python(RL/DL)***, Flutter, Flask, Firebase|***RL, DL***, Fintech, App|
   |23.03(11d)|1|[***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec): ***iOS***|***Flutter***, SQLite|***iOS***, ***Rutine***/Schedule/Writing|
-  |23.04(4M)|1|[***LG Smart Health Care***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec)|||
+  |23.04(ing)|-|[***LG Smart Health Care***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec)|||
 
 <br>
 

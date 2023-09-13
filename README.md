@@ -10,7 +10,7 @@
      
 <br>
      
-  📙 iOS / AOS App: 2023.07 [***BuildUr***]()(personal project) - Routine | Schedule | ToDoList | Writing
+  📙 iOS / AOS App: 2023.07 [***Build Ur***]()(personal project) - Routine | Schedule | ToDoList | Writing
   <br>- advanced from 'Life Rutine'
 <br>
   📙 iOS app: 2023.03 [***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec)(personal project) - Routine | Schedule | Writing
@@ -28,7 +28,7 @@
   📗 I did these projects in [Company]() <br>- LG smart health care
   
   📙 I did these projects in [Personal]()
-  <br>- BuildUr: Flutter-Firebase(app store/ play store / myself)
+  <br>- Build Ur: Flutter-Firebase(app store / play store / myself)
   <br>- LifeRutine: Flutter-SQLite(app store / myself)
   <!-- 프로젝트를 진행하였습니다.   -->
      

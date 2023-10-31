@@ -9,9 +9,10 @@
   <!-- **이성과 감성을 겸비한 균형있는 개발자, 김상원입니다** :relaxed:   -->
      
 <br>
-     
-  📙 iOS / AOS App: 2023.07 [***Build Ur***]()(personal project) - Routine | Schedule | ToDoList | Writing
-  <br>- advanced from 'Life Rutine'
+
+  📙 iOS / AOS App: 2023.11 [***LifelogOne***]()(LG)(company project) - Smart Health Care     
+  📙 iOS / AOS App: 2023.07 [***Build Ur***](https://chambray-galaxy-020.notion.site/Build-Ur-a72ad722ef0b4ae29f70de89227752e1)(personal project) - Routine | Schedule | ToDoList | Writing
+  <br>\* advanced from 'Life Rutine'
 <br>
   📙 iOS app: 2023.03 [***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec)(personal project) - Routine | Schedule | Writing
      
@@ -60,8 +61,9 @@
   |23.01(11d)|5|[Dr.Oh App Project](https://github.com/sangwonKim7/Flutter-R-Project__App-ML__Dr_Oh.git)|**Flutter**, **R**, Firebase|*Data Analysis*, ML, App|
   |23.02(16d)|5|[LocalNow ML-App Project](https://github.com/sangwonKim7/Python-Flutter_ML-App_LocalNow.git)|***Python(ML)***, **Flutter**, *Flask*, Firebase|Data Analysis, **ML**, App|
   |23.03(12d)|1|[MemoryMarket RL-DL-App Project](https://github.com/sangwonKim7)|***Python(RL/DL)***, Flutter, Flask, Firebase|***RL, DL***, Fintech, App|
-  |23.03(11d)|1|[***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec): ***iOS***|***Flutter***, SQLite|***iOS***, ***Rutine***/Schedule/Writing|
-  |23.04(ing)|-|[***LG Smart Health Care***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec)|||
+  |23.03(11d)|1|[***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec): ***iOS***(stop)|***Flutter***, SQLite|***iOS***, ***Rutine***/Schedule/Writing|
+  |23.07(3m)|1|[***Build Ur***](https://chambray-galaxy-020.notion.site/Build-Ur-a72ad722ef0b4ae29f70de89227752e1): ***iOS, AOS***|***Flutter***, Firebase|***iOS, AOS***, ***Rutine***/Schedule/ToDoList/Writing|
+  |23.11(7m)|company|[***LifelogOne***]()(LG): iOS, AOS|***Flutter***, (Swift, Kotlin)|Smart Health Care|
 
 <br>
 

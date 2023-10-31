@@ -26,7 +26,7 @@
   Python-Flutter(RL-DL-App)(1): Python (***Reinforcement, CNN***) *FinTech* ***Flutter*** App |    
   <!-- 프로젝트들을 진행하였습니다.  -->
 
-  📗 I did these projects in [Company]() <br>- LG smart health care
+  📗 I did these projects in [Company]() <br>- LifelogOne (LG)
   
   📙 I did these projects in [Personal]()
   <br>- Build Ur: Flutter-Firebase(app store / play store / myself)

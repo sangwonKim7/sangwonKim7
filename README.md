@@ -42,7 +42,7 @@
  
   |<b>Back-End</b>|![MySQL](https://img.shields.io/badge/mySQL-4479A1.svg?&style=flat-square&logo=mySQL&logoColor=white)  ![MySQL Workbech](https://img.shields.io/badge/MySQL%20Workbench-4479A1.svg?&style=flat-square&logo=mySQL%20Workbench&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white)  ![TinyDB](https://img.shields.io/badge/TinyDB-276DC3.svg?&style=flat-square&logo=TinyDB&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=flat-square&logo=Flask&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat-square&logo=Spring%20Boot&logoColor=white)|
   |------:|:------:|
-  |<b>Development & Front-End</b>|  ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=flat-square&logo=Flutter&logoColor=white)  ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=flat-square&logo=Dart&logoColor=white)  ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=flat-square&logo=Swift&logoColor=white)  ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=flat-square&logo=Xcode&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)    ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)  ![JQuery](https://img.shields.io/badge/JQuery-0769AD.svg?&style=flat-square&logo=JQuery&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat-square&logo=Bootstrap&logoColor=white)|
+  |<b>Development & Front-End</b>|  ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=flat-square&logo=Flutter&logoColor=white)  ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=flat-square&logo=Dart&logoColor=white)  ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=flat-square&logo=Swift&logoColor=white)  ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=flat-square&logo=Xcode&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat-square&logo=Kotlin&logoColor=white)    ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)  ![JQuery](https://img.shields.io/badge/JQuery-0769AD.svg?&style=flat-square&logo=JQuery&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat-square&logo=Bootstrap&logoColor=white)|
   |<b>Data Analysis</b>|  ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=Keras&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white)|  
   |<b>IDE</b>|  ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?&style=flat-square&logo=VisualStudioCode&logoColor=white)  ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white)  ![RStudio](https://img.shields.io/badge/RStudio-75AADB.svg?&style=flat-square&logo=RStudio&logoColor=white)|
   |<b>Collaboration</b>|  ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white)  ![Fork](https://img.shields.io/badge/Fork-75AADB.svg?&style=flat-square&logo=Fork&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white)  ![Miro](https://img.shields.io/badge/Miro-050038.svg?&style=flat-square&logo=Miro&logoColor=white)  ![Google Docs](https://img.shields.io/badge/Google%20Docs-34A853.svg?&style=flat-square&logo=Google%20Docs&logoColor=white)  ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white)  ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=flat-square&logo=Discord&logoColor=white)|
@@ -53,17 +53,19 @@
 
   |       When       | Member | Name | Development |    Output    |
   |-----|-----|-----|-----|-----|  
-  |22.10(9d)|5|[Noon Swing Project](https://github.com/sangwonKim7/Swing-Project__App-Kiosk-Cms__Noon.git)|Java, *Swing*|App / Kiosk / Cms|
-  |22.11(14d)|5|[RoastBean Web Project](https://github.com/sangwonKim7/MVC-Project__Web__Roast-Bean.git)|Java, **MVC Pattern**, MySQL|WEB|
-  |22.11(7d)|5|[RoastBean Web Project](https://github.com/sangwonKim7/Spring-Project__Web__Roast-Bean.git)|Java, **Spring boot**, MySQL|WEB|
-  |22.12(3d)|1|Subway Data Analysis Semi Project|R|Data Analysis|
-  |22.12(4d)|1|Scheduler App Semi Project|**Flutter**, MySQL|App|
-  |23.01(11d)|5|[Dr.Oh App Project](https://github.com/sangwonKim7/Flutter-R-Project__App-ML__Dr_Oh.git)|**Flutter**, **R**, Firebase|*Data Analysis*, ML, App|
-  |23.02(16d)|5|[LocalNow ML-App Project](https://github.com/sangwonKim7/Python-Flutter_ML-App_LocalNow.git)|***Python(ML)***, **Flutter**, *Flask*, Firebase|Data Analysis, **ML**, App|
-  |23.03(12d)|1|[MemoryMarket RL-DL-App Project](https://github.com/sangwonKim7)|***Python(RL/DL)***, Flutter, Flask, Firebase|***RL, DL***, Fintech, App|
-  |23.03(11d)|1|[***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec): ***iOS***(stop)|***Flutter***, SQLite|***iOS***, ***Rutine***/Schedule/Writing|
-  |23.07(3m)|1|[***Build Ur***](https://chambray-galaxy-020.notion.site/Build-Ur-a72ad722ef0b4ae29f70de89227752e1): ***iOS, AOS***|***Flutter***, Firebase|***iOS, AOS***, ***Rutine***/Schedule/ToDoList/Writing|
-  |23.11(7m)|company|[***LifelogOne***]()(LG): iOS, AOS|***Flutter***, (Swift, Kotlin)|Smart Health Care|
+  |22.10(9d)|academy(5)|[Noon Swing Project](https://github.com/sangwonKim7/Swing-Project__App-Kiosk-Cms__Noon.git)|Java, *Swing*|App / Kiosk / Cms|
+  |22.11(14d)|academy(5)|[RoastBean Web Project](https://github.com/sangwonKim7/MVC-Project__Web__Roast-Bean.git)|Java, **MVC Pattern**, MySQL|WEB|
+  |22.11(7d)|academy(5)|[RoastBean Web Project](https://github.com/sangwonKim7/Spring-Project__Web__Roast-Bean.git)|Java, **Spring boot**, MySQL|WEB|
+  |22.12(3d)|academy(1)|Subway Data Analysis Semi Project|R|Data Analysis|
+  |22.12(4d)|academy(1)|Scheduler App Semi Project|**Flutter**, MySQL|App|
+  |23.01(11d)|academy(5)|[Dr.Oh App Project](https://github.com/sangwonKim7/Flutter-R-Project__App-ML__Dr_Oh.git)|**Flutter**, **R**, Firebase|*Data Analysis*, ML, App|
+  |23.02(16d)|academy(5)|[LocalNow ML-App Project](https://github.com/sangwonKim7/Python-Flutter_ML-App_LocalNow.git)|***Python(ML)***, **Flutter**, *Flask*, Firebase|Data Analysis, **ML**, App|
+  |23.03(12d)|academy(1)|[MemoryMarket RL-DL-App Project](https://github.com/sangwonKim7)|***Python(RL/DL)***, Flutter, Flask, Firebase|***RL, DL***, Fintech, App|
+  |23.03(11d)|personal|[***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec)|***Flutter***, SQLite|(iOS), ***Rutine***/Schedule/Writing|
+  |23.07(3m)|personal|[***Build Ur***](https://chambray-galaxy-020.notion.site/Build-Ur-a72ad722ef0b4ae29f70de89227752e1)|***Flutter***, Firebase, FCM, Admob|(iOS, AOS), ***Rutine***/Schedule/ToDoList/Writing|
+  |23.11(7m)|company|[***LifelogOne***]()(LG)|***Flutter***, (Swift, Kotlin)|(iOS, AOS) Smart Health Care|
+  |23.09(~ing)|side(5)|[***El******]()|***Flutter***|(iOS, AOS) Community|
+  |23.10(~ing)|side(4)|[***IM**\******]()|***Flutter***|(iOS, AOS) e-commerce|
 
 <br>
 
@@ -88,7 +90,7 @@
    
 |When|Where|What|Note|
 |------|------|------|------|
-|2023.04 ~ ing||Development, AI|now working|     
+|2023.04 ~ ing|DU***|Development, AI|now working|     
 
 <br>
 

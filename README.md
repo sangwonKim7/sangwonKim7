@@ -3,9 +3,9 @@
   
 <h1 align="center">Hi, &nbsp;I'm Sangwon Kim ! 👋 </h1>
 
-### 🌱 Full Stack Developer / AI Software Engineer
+### 🌱 Cross Platform(Flutter) App Developer
 
-  **I'm Kim Sangwon, a well-balanced developer with both reason and emotion** :relaxed:
+  **I'm Sangwon Kim, a well-balanced developer with both reasonable and emotion** :relaxed:
   <!-- **이성과 감성을 겸비한 균형있는 개발자, 김상원입니다** :relaxed:   -->
      
 <br>

@@ -23,25 +23,26 @@
       
   📕 I've learned <br>- Flutter | Dart | Java | Swift | objective-c | Kotlin | MySQL | Firebase | SQLite | TinyDB | MVC Pattern | Spring Boot | R(Data Analysis, Machine Learning) | Python(Scrapy, Data Analysis, Machine Learning, Deep Learning)    
   <!-- 등 을 익혔습니다.   -->
-      
+
+<!--
   📗 I did these projects in [Academy]() <br>- Java(Swing Program) | Java(MVC Pattern Web) | Java(Spring Web)
   <br>- R(Data Analysis) | Flutter-R(ML-App) | Python-Flutter(ML-App)
   <br>- Python-Flutter(RL-DL-App): Python (***Reinforcement, CNN***) *FinTech* ***Flutter*** App |    
-  <!-- 프로젝트들을 진행하였습니다.  -->
+
 
   📗 I did these projects in [Company]() <br>- LifeLogOne : LG smart health care (app store / play store)
   
   📙 I did these projects in [Personal]()
   <br>- Build Ur : Flutter-Firebase (app store / play store / myself)
   <br>- LifeRutine : Flutter-SQLite (app store / myself)
-  <!-- 프로젝트를 진행하였습니다.   -->
+
 
   📙 I did these projects in [Side Project]()
   <br>- 엘* : Flutter (app store / play store)
-  <!-- 프로젝트를 진행하였습니다.   -->
+
      
   📘 I'm currently in the development / AI profession
-  <!-- 📘 현재 개발/AI 직군에서 활동하고 있습니다 :smiling_face_with_three_hearts: -->
+-->
 
 <br>
 

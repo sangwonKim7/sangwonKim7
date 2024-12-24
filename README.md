@@ -60,10 +60,10 @@
 
   |       When       | Member | Name | Development |    Output    |
   |-----|-----|-----|-----|-----|  
-  |23.04~23.07(3m)|personal|[***Build Ur***](https://chambray-galaxy-020.notion.site/Build-Ur-a72ad722ef0b4ae29f70de89227752e1)|***Flutter***, Firebase, FCM, Admob|(iOS, AOS), ***Rutine***/Schedule/ToDoList/Writing|
+  |23.04~23.07(3m)|side(1)|[***Build Ur***](https://chambray-galaxy-020.notion.site/Build-Ur-a72ad722ef0b4ae29f70de89227752e1)|***Flutter***, Firebase, FCM, Admob|(iOS, AOS), ***Rutine***/Schedule/ToDoList/Writing|
   |23.04~23.11(7m)|company|[***LifelogOne***]()|***Flutter***, (Swift, Kotlin)|(iOS, AOS) LG Smart Health Care|
-  |23.08~24.03(7m)|side(7)|[***엘****]()|***Flutter***|(iOS, AOS) Community of Professionals|
-  |24.04~24.07(3m)|personal|[***flowdays***]()|***Flutter***|(iOS, AOS) 시간관리 및 타이머/기록 앱|
+  |23.08~24.03(7m)|side(3)|[***엘****]()|***Flutter***|(iOS, AOS) Community of Professionals|
+  |24.04~24.07(3m)|side(1)|[***flowdays***]()|***Flutter***|(iOS, AOS) 시간관리 및 타이머/기록 앱|
   |23.09~24.11(2m)|side(1)|[***지소에듀***]()|***Flutter, Firebase***|(iOS, AOS) 교육 상담 앱 / 관리자 웹|
   |24.05~ (ing)|company|[***Udada***]()|***Flutter***|(iOS, AOS) Pet Insurance App(삼성화재 펫보험 앱)|
   |24.11~ (ing)|side(1)|[***비전검사***]()|***Flutter, Firebase***|(AOS) opencv 활용한 카메라 인식 앱|

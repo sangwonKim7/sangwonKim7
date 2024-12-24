@@ -66,8 +66,8 @@
   |24.04~24.07(3m)|personal|[***flowdays***]()|***Flutter***|(iOS, AOS) 시간관리 및 타이머/기록 앱|
   |23.09~24.11(2m)|side(1)|[***지소에듀***]()|***Flutter, Firebase***|(iOS, AOS) 교육 상담 앱 / 관리자 웹|
   |24.05~24.12(7m)|company|[***Udada***]()|***Flutter***|(iOS, AOS) Pet Insurance App(삼성화재 펫보험 앱)|
-  |24.11~ (ing)|side(1)|[***비전검사***]()|***Flutter, Firebase***|(iOS, AOS) opencv 활용한 카메라 인식 앱|
-  |23.12~ (ing)|side(2)|[***app***]()|***Flutter, Supabase Firebase***|(iOS, AOS) 사용자 기반 관계 관리 앱|
+  |24.11~ (ing)|side(1)|[***비전검사***]()|***Flutter, Firebase***|(AOS) opencv 활용한 카메라 인식 앱|
+  |23.12~ (ing)|side(2)|[***app***]()|***Flutter, Supabase, Firebase, AI***|(iOS, AOS) 사용자 기반 관계 관리 앱|
   <!--
   |22.10(9d)|academy(5)|[Noon Swing Project](https://github.com/sangwonKim7/Swing-Project__App-Kiosk-Cms__Noon.git)|Java, *Swing*|App / Kiosk / Cms|
   |22.11(14d)|academy(5)|[RoastBean Web (mvc)](https://github.com/sangwonKim7/MVC-Project__Web__Roast-Bean.git)|Java, **MVC Pattern**, MySQL|WEB|

@@ -17,12 +17,9 @@
   <br>(* advanced from 'Life Rutine')
 <br>
   📙 iOS app: 2023.03 [***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec) (personal project) - Routine | Schedule | Writing
--->
 
 <br>
-      
   📕 I've learned <br>- Flutter | Dart | Java | Swift | objective-c | Kotlin | MySQL | Firebase | SQLite | TinyDB | MVC Pattern | Spring Boot | R(Data Analysis, Machine Learning) | Python(Scrapy, Data Analysis, Machine Learning, Deep Learning)    
-  <!-- 등 을 익혔습니다.   -->
 
 <!--
   📗 I did these projects in [Academy]() <br>- Java(Swing Program) | Java(MVC Pattern Web) | Java(Spring Web)

@@ -69,7 +69,8 @@
   |23.03(11d)|personal|[***Life Rutine***](https://valuable-sandal-512.notion.site/Life-Rutine-21f94eea8e824962a4ae26d2769146ec)|***Flutter***, SQLite|(iOS), ***Rutine***/Schedule/Writing|
   |23.07(3m)|personal|[***Build Ur***](https://chambray-galaxy-020.notion.site/Build-Ur-a72ad722ef0b4ae29f70de89227752e1)|***Flutter***, Firebase, FCM, Admob|(iOS, AOS), ***Rutine***/Schedule/ToDoList/Writing|
   |23.11(7m)|company|[***LifelogOne***]()|***Flutter***, (Swift, Kotlin)|(iOS, AOS) LG Smart Health Care|
-  |24.03(7m)|side(7)|[***엘****]()|***Flutter***|(iOS, AOS) Community of Professionals
+  |24.03(7m)|side(7)|[***엘****]()|***Flutter***|(iOS, AOS) Community of Professionals|
+  |24.03(7m)|company|[***Udada***]()|***Flutter***|(iOS, AOS) Pet Insurance App(삼성화재 펫보험 앱)
 
 <br>
 

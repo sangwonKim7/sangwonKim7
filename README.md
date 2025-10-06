@@ -29,14 +29,14 @@
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:swkim7275@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:swkim7275@naver.com)
 
-<br>
+<!-- <br>
 
-![GitHub followers](https://img.shields.io/github/followers/sangwonKim7?style=social)
-
-<!-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Sangwon's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sangwonKim7&show_icons=true&theme=tokyonight&layout=compact)
 
-[![Sangwon's github stats](https://github-readme-stats.vercel.app/api?username=sangwonKim7&show_icons=true&theme=tokyonight)](https://github.com/sangwonKim7/) -->
+[![Sangwon's github stats](https://github-readme-stats.vercel.app/api?username=sangwonKim7&show_icons=true&theme=tokyonight)](https://github.com/sangwonKim7/)
+
+![GitHub followers](https://img.shields.io/github/followers/sangwonKim7?style=social) -->
 
 </div>
